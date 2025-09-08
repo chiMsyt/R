@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Current R File",
+      "type": "pwa-node",
+      "request": "launch",
+      "runtimeExecutable": "C:\\Program Files\\R\\R-4.5.1\\bin\\Rscript.exe",
+      "args": [
+        "${file}"
+      ],
+      "cwd": "${fileDirname}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
