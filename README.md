@@ -59,16 +59,19 @@ This roadmap serves as a guide for my growth in R programming:
 
 Each folder will be structured as:
 
+```
 R/
-├── basics/ # Introductory R programs
-├── data-manipulation/ # Using dplyr, tidyr
-├── visualization/ # ggplot2 and base plotting
-├── statistics/ # Descriptive & inferential stats
-├── probability/ # Distribution and simulations
-├── regression/ # Regression models
-├── projects/ # Capstone projects
-└── README.md # This file
+├── basics/             # Introductory R programs
+├── data-manipulation/  # Using dplyr, tidyr
+├── visualization/      # ggplot2 and base plotting
+├── statistics/         # Descriptive & inferential stats
+├── probability/        # Distribution and simulations
+├── regression/         # Regression models
+├── projects/           # Capstone projects
+└── README.md           # This file
+```
 
+---
 
 Each subfolder will contain:
 - `project-XX-name/` → Code and scripts
