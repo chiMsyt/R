@@ -61,14 +61,17 @@ Each folder will be structured as:
 
 ```
 R/
-├── basics/             # Introductory R programs
-├── data-manipulation/  # Using dplyr, tidyr
-├── visualization/      # ggplot2 and base plotting
-├── statistics/         # Descriptive & inferential stats
-├── probability/        # Distribution and simulations
-├── regression/         # Regression models
-├── projects/           # Capstone projects
-└── README.md           # This file
+├── basics/               # Introductory R programs
+├── data-manipulation/    # Using dplyr, tidyr
+├── visualization/        # ggplot2 and base plotting
+├── statistics/           # Descriptive & inferential stats
+├── probability/          # Distribution and simulations
+├── regression/           # Regression models
+├── projects/             # Capstone projects
+├── Uni/
+│   └── Activities/       # University R activities
+├── W3Schools/            # Practice exercises from W3Schools
+└── README.md             # This file
 ```
 
 ---
